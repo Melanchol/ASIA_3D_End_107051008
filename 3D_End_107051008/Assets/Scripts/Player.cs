@@ -3,7 +3,7 @@ using Invector.vCharacterController;    // 引用 套件
 
 public class Player : MonoBehaviour
 {
-    private float hp = 100;
+    public float hp = 500;
     private Animator ani;
     /// <summary>
     /// 連擊次數
@@ -19,7 +19,7 @@ public class Player : MonoBehaviour
     public float interval = 1;
     [Header("攻擊中心點")]
     public Transform atkPoint;
-    [Header("攻擊長度"), Range(0f, 5f)]
+    [Header("攻擊長度"), Range(0f, 10f)]
     public float atkLength;
     [Header("攻擊力"), Range(0, 500)]
     public float atk = 30;
