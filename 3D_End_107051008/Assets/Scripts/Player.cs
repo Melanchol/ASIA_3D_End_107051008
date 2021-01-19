@@ -23,6 +23,9 @@ public class Player : MonoBehaviour
     public float atkLength;
     [Header("攻擊力"), Range(0, 500)]
     public float atk = 30;
+    [Header("對話框")]
+    public GameObject diedlog;
+
 
     private void Awake()
     {
@@ -99,11 +102,14 @@ public class Player : MonoBehaviour
     /// </summary>
     private void Dead()
     {
-        ani.SetTrigger("死亡觸發");
+        ani.SetBool("死亡開關", true);
 
         // 鎖定移動與旋轉
         vThirdPersonController vt = GetComponent<vThirdPersonController>();
         vt.lockMovement = true;
         vt.lockRotation = true;
+
+        new WaitForSeconds(3f);
+        diedlog.SetActive(true);
     }
 }
