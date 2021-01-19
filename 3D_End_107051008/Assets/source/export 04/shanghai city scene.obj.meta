@@ -1,0 +1,882 @@
+fileFormatVersion: 2
+guid: bea556936a8271e4399556b7250cda76
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bo0k_09Mat
+    second: {fileID: 2100000, guid: 9dfcdf50a38a74345b0f49bf9ba9e600, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Book005Mat
+    second: {fileID: 2100000, guid: b90d6bcc63c30c34d872ba3cd4ac23b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Book006Mat
+    second: {fileID: 2100000, guid: dfd7193dddd78a0478d885b8a436b634, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Book02Mat
+    second: {fileID: 2100000, guid: 583eff776c5b8714f8e84fab457620ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Book03Mat
+    second: {fileID: 2100000, guid: 85296644a71fa7041944f3e728d92834, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Book04Mat
+    second: {fileID: 2100000, guid: 9f5f272ba01ddc249acdbe5153e883f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BookStore_RoofMat
+    second: {fileID: 2100000, guid: 6972c8923c10cc7469b934005deb6024, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Book_009Mat
+    second: {fileID: 2100000, guid: 0be881d59a323b04c8231f9a174a8d78, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Book_010Mat
+    second: {fileID: 2100000, guid: a4c8d3be75d5d1344af753cb4f294604, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Book_01Mat
+    second: {fileID: 2100000, guid: b0b66976f8e62e24f893382221e1f5fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Book_05Mat
+    second: {fileID: 2100000, guid: 5e3fb503bd62e9149bf47278be361aad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Book_07Mat
+    second: {fileID: 2100000, guid: dace6afacef07154583bbacfe242bbd6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Book_08Mat
+    second: {fileID: 2100000, guid: 74384c3e8ad466441859d4b3eb71a96f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Book_n_banksMat
+    second: {fileID: 2100000, guid: 554c6ec8bca640d49a64e107dcd63b63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DragonsMat
+    second: {fileID: 2100000, guid: a1761e244ac87e94a973d789af90e104, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor_01_Hotel_RailMat
+    second: {fileID: 2100000, guid: 6a88a915f50487f4c86afd77c58673b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor_01_Hotel_stairsMat
+    second: {fileID: 2100000, guid: 23a3601e9d2cdde40934246da7c1bf17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor_01_Hotel_stairs_Concrete_PoleMat
+    second: {fileID: 2100000, guid: 1920faa26e406344ba1c43760c839947, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor_01_Hotel_stairs_Concrete_RailMat
+    second: {fileID: 2100000, guid: 2253e022bd7dde74e87207456c8492f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor_01_Hotel_stairs_DecallMat
+    second: {fileID: 2100000, guid: fe9234a8a30743643b0ea74155f744ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor_01_Hotel_stairs_Sign_005Mat
+    second: {fileID: 2100000, guid: 94c52d258f92e4c4d925fa370fee2fe0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor_01_Hotel_stairs_Sign_01Mat
+    second: {fileID: 2100000, guid: 1c4884345a098b046913e6c6c6f377c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor_01_Hotel_stairs_Sign_01_Sign_05Mat
+    second: {fileID: 2100000, guid: 8c21a8ff042184148bdac9545eb5c199, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor_01_Hotel_stairs_Sign_02Mat
+    second: {fileID: 2100000, guid: f604b62f3d1dfc9489c447bcc9f87180, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor_01_Hotel_stairs_Sign_03Mat
+    second: {fileID: 2100000, guid: 026a6825edd1eb045aa053fd2501466b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor_01_Hotel_stairs_Sign_04Mat
+    second: {fileID: 2100000, guid: d769012ebfd8f15409e82735475bb6b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor_01_Hotel_stairs_step_upMat
+    second: {fileID: 2100000, guid: 7a1a74b6ac8811048899bdf1debfc5d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor_02_HouseMat
+    second: {fileID: 2100000, guid: 469b537d9f7301d4785a05600d0031dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House_02_old_House_BaseMat
+    second: {fileID: 2100000, guid: fb455bcd82458594a9cc3e30f2a1db20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House_02_old_House_PropsMat
+    second: {fileID: 2100000, guid: ada90d2d3c1cfa843a614e06889b6240, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House_03_TeaHouseMat
+    second: {fileID: 2100000, guid: 06ae52166056b654582ec854081ef3bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House_4_HotelMat
+    second: {fileID: 2100000, guid: 578be92bbc75d1141979e8c4162b7357, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plane001Mat
+    second: {fileID: 2100000, guid: 8c1cfde1046bc8443b675055e56bc50f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plane003Mat
+    second: {fileID: 2100000, guid: 015f6e84332b38941896708c8cf35d1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plane005Mat
+    second: {fileID: 2100000, guid: 8dd9e3ee70b73fd4b847813912b48099, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plane006Mat
+    second: {fileID: 2100000, guid: 401b3b1070567ec4baf1c9a0c9241744, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plane007Mat
+    second: {fileID: 2100000, guid: 6dd89b61b9bd9b646a02d63a31106c1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plane008Mat
+    second: {fileID: 2100000, guid: afa1e273ad8cff34db66d5fa4d74bba3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plane009Mat
+    second: {fileID: 2100000, guid: 7bbe6e7dc2568fc41b9294b1c7716c1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plane010Mat
+    second: {fileID: 2100000, guid: bea7c8ba66a533348aa39eaa1748b85a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plane011Mat
+    second: {fileID: 2100000, guid: 22852528ae761664aabd036e5cc763ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plane012Mat
+    second: {fileID: 2100000, guid: bc9b452427fca9f41b2b81017cb7cd0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plane013Mat
+    second: {fileID: 2100000, guid: ac927e397ed1b5843a355af6d9bc5011, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plane015Mat
+    second: {fileID: 2100000, guid: a49af0f7db088e642a115cdbd9a4c283, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_02_Bench001Mat
+    second: {fileID: 2100000, guid: 5f389516e4e866d4f8ecc2ecc6292012, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_02_Bench002Mat
+    second: {fileID: 2100000, guid: 1782821da50b3f749bb31848c56ea7fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_02_Bench003Mat
+    second: {fileID: 2100000, guid: 178a757e27164ae40b81390f0d024bf5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_02_Bench004Mat
+    second: {fileID: 2100000, guid: 24050c57a4f6e7a48815edc5fca4de09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_02_Bench005Mat
+    second: {fileID: 2100000, guid: 3c60fef7d398fcf4393e750beff47b24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_02_Bench006Mat
+    second: {fileID: 2100000, guid: d0f2473d97523bc46b22cd76929a41bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_02_Bench007Mat
+    second: {fileID: 2100000, guid: 975c7b6b015331e49a35a2c48e97828d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_02_Bench008Mat
+    second: {fileID: 2100000, guid: afc038bb0739fb3429afd10e8feb80c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_02_Bench009Mat
+    second: {fileID: 2100000, guid: e032f968065f0604e82a72e26df7309e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_02_Bench010Mat
+    second: {fileID: 2100000, guid: d4d3aa595bfaa40439fdb82031d34a74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_02_Bench011Mat
+    second: {fileID: 2100000, guid: 0fbace20c3247b344a1a90defce8b146, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_02_BenchMat
+    second: {fileID: 2100000, guid: c6c6c4698ba765e46839aaa9992094ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_03_Decorative_GarbageBin001Mat
+    second: {fileID: 2100000, guid: 21f5caa510588a34a869873c6dc7c351, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_03_Decorative_GarbageBin002Mat
+    second: {fileID: 2100000, guid: 39a7c578384e73c4da37272a0eaabf01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_03_Decorative_GarbageBinMat
+    second: {fileID: 2100000, guid: e2eb672956d4f18478ec3a1bf97d8ac6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_04_Decorative_Pole001Mat
+    second: {fileID: 2100000, guid: 7c6efcb40257e2e448bb6431da2103e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_04_Decorative_PoleMat
+    second: {fileID: 2100000, guid: 92b49f2417faf874893d734b479823ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_05_Toilet_SignsTMat
+    second: {fileID: 2100000, guid: 3ae373d7879b78941bcd79ef87a0d026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_06_BoatTMat
+    second: {fileID: 2100000, guid: a4adb2e5946435946a2e486b7fe5beea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_08_Garbage_Bin001Mat
+    second: {fileID: 2100000, guid: 150db06962822814aaebee2a113f9a7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_08_Garbage_Bin002Mat
+    second: {fileID: 2100000, guid: e7c2f6f511b5b444f95c437b0e061a55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_08_Garbage_BinMat
+    second: {fileID: 2100000, guid: bf7b7be7540cd6b4788506437361f97a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_09_BridgeMat
+    second: {fileID: 2100000, guid: 118d5dcd8e747bf4abde940193526248, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_10_Light_pole001Mat
+    second: {fileID: 2100000, guid: 068aec571881b194ab3a846e09766412, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_10_Light_pole002Mat
+    second: {fileID: 2100000, guid: 0046a7960b3baab4fad83d93b86aa39d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_10_Light_pole003Mat
+    second: {fileID: 2100000, guid: ef9b64a7f6e31604dbb79754cdf3997d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_10_Light_pole004Mat
+    second: {fileID: 2100000, guid: 2d34cbd196971dc488d86453df08e7e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_10_Light_pole005Mat
+    second: {fileID: 2100000, guid: e0304d6a5ff8ca04e877060f74ba3619, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_10_Light_poleMat
+    second: {fileID: 2100000, guid: 7c921ebd8a36d424296270ed5e09f3f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_10_Light_pole_Railing001Mat
+    second: {fileID: 2100000, guid: 04195c3f378a3fb43bef50f18cc5ff67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_10_Light_pole_Railing002Mat
+    second: {fileID: 2100000, guid: 3bce10f7b1448b54ebfa23aabb37b5e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_10_Light_pole_Railing003Mat
+    second: {fileID: 2100000, guid: 33d0b8695d4505f48a8893c53b224a82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_10_Light_pole_Railing004Mat
+    second: {fileID: 2100000, guid: b7cb2b2f682548f468a235d792960e64, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_10_Light_pole_Railing005Mat
+    second: {fileID: 2100000, guid: 611c2d9224fd0e849b9b7ad36f425db3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_10_Light_pole_Railing006Mat
+    second: {fileID: 2100000, guid: 4459e266fff50af4392c5e5b3bf3ee59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_10_Light_pole_Railing007Mat
+    second: {fileID: 2100000, guid: 0e447debc7ce5b6488a5f9493936fad9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_10_Light_pole_Railing008Mat
+    second: {fileID: 2100000, guid: 31d34723ede894b4bbe5edee07ff50b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_10_Light_pole_Railing009Mat
+    second: {fileID: 2100000, guid: 3de4914d149636e4bbf8f84f0375c13b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_10_Light_pole_Railing010Mat
+    second: {fileID: 2100000, guid: efffa6975a651154db6136614b778f79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_10_Light_pole_Railing011Mat
+    second: {fileID: 2100000, guid: 971a91633cb962440bda20682920b30b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_10_Light_pole_Railing012Mat
+    second: {fileID: 2100000, guid: 10cd3ef319f49d54e85e1a73a2b400c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_10_Light_pole_Railing013Mat
+    second: {fileID: 2100000, guid: 7a5fb2eb0076309439934c3a70f7feff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_10_Light_pole_Railing014Mat
+    second: {fileID: 2100000, guid: b7d54ea33b1d12b458a1a0517cd963e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_10_Light_pole_Railing015Mat
+    second: {fileID: 2100000, guid: af5ae49e1bff181428ac1d4c28e55257, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_10_Light_pole_Railing016Mat
+    second: {fileID: 2100000, guid: f5d14f17e0d5c554d93c45330d94d4a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_10_Light_pole_Railing017Mat
+    second: {fileID: 2100000, guid: e9116a533d09cde4b8cac5dc83ed8d40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_10_Light_pole_Railing018Mat
+    second: {fileID: 2100000, guid: f25aa1614545495489620eb3ffc4be70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_10_Light_pole_Railing019Mat
+    second: {fileID: 2100000, guid: f8949af94d9003841b428e47f09e474a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_10_Light_pole_Railing020Mat
+    second: {fileID: 2100000, guid: 7616a19527927dd40be534b2623102f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_10_Light_pole_Railing021Mat
+    second: {fileID: 2100000, guid: db6ac65e4f1660843a64b48295e451d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_10_Light_pole_RailingMat
+    second: {fileID: 2100000, guid: 935af41090cebac4695554b9c3c58c19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_10_Light_pole_small004Mat
+    second: {fileID: 2100000, guid: 8a1b3f71465e5c542bed64f7620d4ac8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_10_Light_pole_small007Mat
+    second: {fileID: 2100000, guid: caf235ff0095ddf49b8537e24d7b9ac2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_10_Light_pole_small014Mat
+    second: {fileID: 2100000, guid: f445baa64088b2848b5dbfb23ab439bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_10_Light_pole_small029Mat
+    second: {fileID: 2100000, guid: 82b604e143f43b94297fe2ab98158eaf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_11_Market_Billboard_Small001Mat
+    second: {fileID: 2100000, guid: 6aa187ba9fd46a8428b4b3167acbe7da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_11_Market_Billboard_SmallMat
+    second: {fileID: 2100000, guid: 1b422c89a450ef2468a9a4c0b1a77a18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_11_Market_ChairMat
+    second: {fileID: 2100000, guid: 37a8d96a5dd6f2140942763ba4b71d86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_12_Restaurant_Chairs001Mat
+    second: {fileID: 2100000, guid: 5872aeac99d507b42a36cd9e9ea23c95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_12_Restaurant_Chairs002Mat
+    second: {fileID: 2100000, guid: 99c720d6d01b5124ba7124c003966ef2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_12_Restaurant_Chairs003Mat
+    second: {fileID: 2100000, guid: f0c698a740ef35942914a452b464c56e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_12_Restaurant_Chairs004Mat
+    second: {fileID: 2100000, guid: 3621627773ae63546bf733dce7761360, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_12_Restaurant_ChairsMat
+    second: {fileID: 2100000, guid: fb3b27e0f2817f446a47bea10eab6b2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_12_Restaurant_Tables001Mat
+    second: {fileID: 2100000, guid: 4a4769824460733439535f888b26aea4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_12_Restaurant_Tables002Mat
+    second: {fileID: 2100000, guid: 32ba9640a041a7043ab295e01b598da2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_12_Restaurant_Tables003Mat
+    second: {fileID: 2100000, guid: fc8fa01633f548e469187f811b3c5ed9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_12_Restaurant_Tables004Mat
+    second: {fileID: 2100000, guid: 66727f1e3af0a394cb438e5ce4c4d18d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_12_Restaurant_TablesMat
+    second: {fileID: 2100000, guid: b2bcc36ea3b5d394387700b2ce2e4cc0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_12_Restaurant_TeaPot001Mat
+    second: {fileID: 2100000, guid: 7fa7d5e0b3e230144868ce06151973e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_12_Restaurant_TeaPot002Mat
+    second: {fileID: 2100000, guid: 347493ab58ef62f48b059dc1448b3b8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_12_Restaurant_TeaPot003Mat
+    second: {fileID: 2100000, guid: 52d0d41976cefe34daa853f0d4995a76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_12_Restaurant_TeaPot004Mat
+    second: {fileID: 2100000, guid: 8dcd1a6969349b044806b015dd91bfd2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_12_Restaurant_TeaPotMat
+    second: {fileID: 2100000, guid: 38dc243ad92a46244a6ef84fd4115998, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_12_Restaurant_cups001Mat
+    second: {fileID: 2100000, guid: e29c868b556b93b4b92d34bac356641f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_12_Restaurant_cups002Mat
+    second: {fileID: 2100000, guid: 702ed497fa62ad64696e420ce78e252f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_12_Restaurant_cups003Mat
+    second: {fileID: 2100000, guid: 2b7b56a6553acc541ae3990ca326adca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_12_Restaurant_cups004Mat
+    second: {fileID: 2100000, guid: 21b59f2ae3de5f5419c8b26803925bdb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_12_Restaurant_cupsMat
+    second: {fileID: 2100000, guid: 7438ff3711f04bf44b9a3102be45f6c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_13_Restaurant_Lamp001Mat
+    second: {fileID: 2100000, guid: 179ccf3b47abd6745b43f06ee2163d2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_13_Restaurant_Lamp005Mat
+    second: {fileID: 2100000, guid: e190aee5df22c6a4caad3990a2071c6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_13_Restaurant_Lamp006Mat
+    second: {fileID: 2100000, guid: 62d967e295638ed45a85ac0e62e21f49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_13_Restaurant_Lamp007Mat
+    second: {fileID: 2100000, guid: c39c126556046654aa7bfa99a5bcf803, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_13_Restaurant_Lamp008Mat
+    second: {fileID: 2100000, guid: 63d1b54c047a89d4e8fa996caf0cfe42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_13_Restaurant_Lamp009Mat
+    second: {fileID: 2100000, guid: 709939b1922d3df4fb5ed2cdf2f24d49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_13_Restaurant_Lamp010Mat
+    second: {fileID: 2100000, guid: 04214138dea2c7b4c9a8d627dac8c16a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_13_Restaurant_Lamp011Mat
+    second: {fileID: 2100000, guid: eb9b8e06050334742afbd4259dc224db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_13_Restaurant_Lamp012Mat
+    second: {fileID: 2100000, guid: 5cc581052b1318246a1fc83894620a22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_13_Restaurant_Lamp013Mat
+    second: {fileID: 2100000, guid: 483922ef6c2166f4db90234b34395035, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_13_Restaurant_Lamp014Mat
+    second: {fileID: 2100000, guid: 111d7076d3d4b2c419cdabcf76c0dede, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_13_Restaurant_Lamp015Mat
+    second: {fileID: 2100000, guid: e0ad782718f545e4ead1d99fc06e5156, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_13_Restaurant_Lamp016Mat
+    second: {fileID: 2100000, guid: fb01dc61ba726c94a99b3a87179b9bd5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_13_Restaurant_Lamp017Mat
+    second: {fileID: 2100000, guid: be2856b5dc6b8284c9cfae529d4412f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_13_Restaurant_Lamp018Mat
+    second: {fileID: 2100000, guid: da03b378703f42242bae424706006354, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_13_Restaurant_Lamp019Mat
+    second: {fileID: 2100000, guid: eb0d39c92d1ff6645bb9ac253c76954e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_13_Restaurant_LampMat
+    second: {fileID: 2100000, guid: c3e49869647e2794ebd7e756a6b6bfa2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_14_Bonsai_Tree001Mat
+    second: {fileID: 2100000, guid: 032d794b4beb0bc419432079ded35109, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_14_Bonsai_Tree002Mat
+    second: {fileID: 2100000, guid: 2c0d06ea34167664d9aeeaa6db7706c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_14_Bonsai_Tree003Mat
+    second: {fileID: 2100000, guid: b247d8b8f075971489c637a5ae5115df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_14_Bonsai_TreeMat
+    second: {fileID: 2100000, guid: a2fd5eff388cdc54a852bfbeff6f3589, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_14_Bonsai_Tree_Props001Mat
+    second: {fileID: 2100000, guid: 7f0d61a7cfbfabd4a80441034c0f15f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_14_Bonsai_Tree_PropsMat
+    second: {fileID: 2100000, guid: e2a2dd6d7e09c214cbd28b7f803490c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_15_Fire_Pole001Mat
+    second: {fileID: 2100000, guid: 0c086384d3365bd4d8c0d818afe5e3da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_15_Fire_PoleMat
+    second: {fileID: 2100000, guid: 2584dd3bb7db46644998acce7229c755, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_17_Rooftopchair001Mat
+    second: {fileID: 2100000, guid: 99d4cb985869ae94e9d66768a69307f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_17_Rooftopchair002Mat
+    second: {fileID: 2100000, guid: a60c9634e04ab3846bc5744b0a1903d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_17_Rooftopchair003Mat
+    second: {fileID: 2100000, guid: 2b24ec433deaa9040af703f69cd3d74f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_17_Rooftopchair004Mat
+    second: {fileID: 2100000, guid: 4f73803654ec6fb4f8fcf6d0b0101da7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_17_Rooftopchair005Mat
+    second: {fileID: 2100000, guid: e74e87a6890a7924d9069e1708210514, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_17_RooftopchairMat
+    second: {fileID: 2100000, guid: 67075a875fc40a44a9092a77dabf57db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_Road_Triangle001Mat
+    second: {fileID: 2100000, guid: c82626167e120254fab2536443874301, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_Road_Triangle002Mat
+    second: {fileID: 2100000, guid: c7f8053e9c8bc714b9ec7783d4e4d34c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_Road_TriangleMat
+    second: {fileID: 2100000, guid: fdf5b3d815f7d8b4face05d6015812e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rectangular_FalloffMat
+    second: {fileID: 2100000, guid: a3b38a0d6458e6642887db457592235a, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
